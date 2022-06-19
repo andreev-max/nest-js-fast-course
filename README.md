@@ -1,2 +1,2 @@
-# nest-js-fast-course
-Form Vladilen Minin
+# Nest.js fast course
+From Vladilen Minin
